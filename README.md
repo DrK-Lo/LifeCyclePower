@@ -19,3 +19,5 @@ Twenty-five years ago the adaptive decoupling hypothesis proposed that selection
 | Barrett - Mice | |
 | Stick insect stuff | |
 | Pespeni - OA | |
+
+The interesting thing about these papers, if I remember them correctly, is that they discover most loci change in frequency < 10%. My analysis suggests power is low to detect those.
