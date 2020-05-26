@@ -9,8 +9,8 @@ Twenty-five years ago the adaptive decoupling hypothesis proposed that selection
 | Synergistic pleiotropy | Genes experiencing strong selection at one life stage also experience strong selection in the same direction in a subsequent life stage | Genes that change significantly in frequency in response to selection at one life stage, change frequency significantly in the same direction in a subsequent life stage, and are likely expressed at both life stages |
 | Antagonistic pleiotropy | Genes experiencing strong selection at one life stage, experience strong selection in the opposite direction in a subsequent life stage | Genes that change significantly in frequency in response to selection at one life stage, change frequency significantly in the opposite direction in a subsequent life stage, and are likely expressed at both life stages |
 
-Study | Stats | Info
------------------------------------------
+|Study | Stats | Info|
+|-------|----------|------------------------|
 | Barrett - Mice | |
 | Stick insect stuff | |
 | Pespeni - OA | |
