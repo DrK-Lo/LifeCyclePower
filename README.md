@@ -13,6 +13,7 @@ The methods and results can be found in `src/AlleleFreqPower.pdf`
 | adaptive decoupling hypothesis | Genes experiencing strong selection at one life stage are neutral at another life stage | Genes change significantly in frequency in response to selection at one life stage where they are likely expressed, but do not change significantly in frequency at a different life stage where they may or may not be expressed |
 | Synergistic pleiotropy | Genes experiencing strong selection at one life stage also experience strong selection in the same direction in a subsequent life stage | Genes that change significantly in frequency in response to selection at one life stage, change frequency significantly in the same direction in a subsequent life stage, and are likely expressed at both life stages |
 | Antagonistic pleiotropy | Genes experiencing strong selection at one life stage, experience strong selection in the opposite direction in a subsequent life stage | Genes that change significantly in frequency in response to selection at one life stage, change frequency significantly in the opposite direction in a subsequent life stage, and are likely expressed at both life stages |
+| Niche differentiation hypothesis | ask Stacy | | |
 
 ## Studies
 
