@@ -2,7 +2,9 @@
 
 Twenty-five years ago the adaptive decoupling hypothesis proposed that selection at one life stage was decoupled from another life stage by the process of metamorphosis. However, all life stages develop from a single genome, and pleiotropic tradeoffs among life stages are expected to be common. Comparative genomics now offers an opportunity to test these contrasting predictions  for fitness tradeoffs (or lack thereof) among life stages. Single- generation experiments can clarify genomic responses to artificial selection and complement other evolutionary approaches.
 
-## Methods
+## Methods and results
+
+The methods and results can be found in `src/AlleleFreqPower.pdf`
 
 ## Hypotheses to test
 
@@ -19,3 +21,5 @@ Twenty-five years ago the adaptive decoupling hypothesis proposed that selection
 | Barrett - Mice | |
 | Stick insect stuff | |
 | Pespeni - OA | |
+
+The interesting thing about these papers, if I remember them correctly, is that they discover most loci change in frequency < 10%. My analysis suggests power is low to detect those.
